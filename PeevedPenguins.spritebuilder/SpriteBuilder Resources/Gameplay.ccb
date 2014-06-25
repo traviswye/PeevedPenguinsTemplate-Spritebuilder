@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>10</integer>
+	<integer>11</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -779,7 +779,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>8</integer>
+				<integer>10</integer>
 				<key>baseClass</key>
 				<string>CCButton</string>
 				<key>children</key>
@@ -787,7 +787,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>Gameplay</string>
+				<string>CCButton</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -809,8 +809,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>40</real>
-							<real>289</real>
+							<real>77</real>
+							<real>258.00003051757812</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -823,8 +823,8 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.48786693811416626</real>
-							<real>0.50449144840240479</real>
+							<real>0.5</real>
+							<real>0.5</real>
 						</array>
 					</dict>
 					<dict>
@@ -847,7 +847,7 @@
 						<string>Block</string>
 						<key>value</key>
 						<array>
-							<string>retry</string>
+							<string></string>
 							<integer>1</integer>
 						</array>
 					</dict>
@@ -892,7 +892,7 @@
 						<string>String</string>
 						<key>value</key>
 						<array>
-							<string>Retry</string>
+							<string>retry</string>
 							<false/>
 						</array>
 					</dict>
