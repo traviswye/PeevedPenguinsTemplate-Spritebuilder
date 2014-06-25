@@ -785,7 +785,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string>Gameplay</string>
+				<string></string>
 				<key>displayName</key>
 				<string>CCButton</string>
 				<key>memberVarAssignmentName</key>
@@ -847,7 +847,7 @@
 						<string>Block</string>
 						<key>value</key>
 						<array>
-							<string></string>
+							<string>retry</string>
 							<integer>1</integer>
 						</array>
 					</dict>
