@@ -71,8 +71,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>87</real>
-							<real>48.999996185302734</real>
+							<real>72</real>
+							<real>37.999996185302734</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -160,8 +160,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>87</real>
-							<real>103</real>
+							<real>77</real>
+							<real>91</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -249,8 +249,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>88</real>
-							<real>136</real>
+							<real>76</real>
+							<real>123</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -338,8 +338,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>87</real>
-							<real>174</real>
+							<real>83</real>
+							<real>170</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -352,8 +352,8 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
-							<real>0.5</real>
+							<real>0.87312036752700806</real>
+							<real>0.98156249523162842</real>
 						</array>
 					</dict>
 					<dict>
@@ -427,8 +427,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>115</real>
-							<real>127</real>
+							<real>105</real>
+							<real>114</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -441,8 +441,8 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.4244791567325592</real>
-							<real>0.46000000834465027</real>
+							<real>0.42910879850387573</real>
+							<real>0.48937499523162842</real>
 						</array>
 					</dict>
 					<dict>
@@ -516,8 +516,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>52</real>
-							<real>138</real>
+							<real>43</real>
+							<real>125</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
