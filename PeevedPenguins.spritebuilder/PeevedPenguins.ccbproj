@@ -80,15 +80,22 @@
 			<key>previewFolderHidden</key>
 			<true/>
 		</dict>
+		<key>Gameplay.ccbi</key>
+		<dict/>
 		<key>PeevedPenguinsAssets</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>Sprites</key>
+		<dict/>
+		<key>animation</key>
 		<dict>
 			<key>isDirty</key>
 			<true/>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
-		<key>Sprites</key>
-		<dict/>
 		<key>ccbResources</key>
 		<dict>
 			<key>previewFolderHidden</key>
