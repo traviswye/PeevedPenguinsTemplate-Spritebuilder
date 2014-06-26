@@ -16,6 +16,8 @@
     CCNode *_catapultArm;
     CCNode *_contentNode;
     CCNode *_pullbackNode;
+    CCNode *_mouseJointNode;
+    CCPhysicsJoint *_mouseJoint;
     
 }
 - (void)retry {
