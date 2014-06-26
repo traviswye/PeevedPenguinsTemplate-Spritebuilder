@@ -815,7 +815,7 @@
 										<key>type</key>
 										<string>StringSimple</string>
 										<key>value</key>
-										<string></string>
+										<string>levelsnode</string>
 									</dict>
 									<dict>
 										<key>name</key>
@@ -1148,7 +1148,7 @@
 								<key>displayName</key>
 								<string>mouseJointNode </string>
 								<key>memberVarAssignmentName</key>
-								<string>_mouseJointNode </string>
+								<string>_mouseJointNode</string>
 								<key>memberVarAssignmentType</key>
 								<integer>1</integer>
 								<key>physicsBody</key>
