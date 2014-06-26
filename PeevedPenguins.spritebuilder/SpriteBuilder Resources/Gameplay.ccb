@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>199.95697021484375</real>
-						<real>119.14064025878906</real>
+						<real>198.62103271484375</real>
+						<real>107.85939025878906</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -131,8 +131,6 @@
 					</array>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -261,6 +259,71 @@
 								<string>_catapultArm</string>
 								<key>memberVarAssignmentType</key>
 								<integer>1</integer>
+								<key>physicsBody</key>
+								<dict>
+									<key>affectedByGravity</key>
+									<true/>
+									<key>allowsRotation</key>
+									<true/>
+									<key>bodyShape</key>
+									<integer>0</integer>
+									<key>collisionCategories</key>
+									<array/>
+									<key>collisionMask</key>
+									<array/>
+									<key>collisionType</key>
+									<string></string>
+									<key>cornerRadius</key>
+									<real>0.0</real>
+									<key>density</key>
+									<real>1</real>
+									<key>dynamic</key>
+									<true/>
+									<key>elasticity</key>
+									<real>0.30000001192092896</real>
+									<key>friction</key>
+									<real>0.30000001192092896</real>
+									<key>points</key>
+									<array>
+										<array>
+											<real>0.0</real>
+											<real>0.0</real>
+										</array>
+										<array>
+											<real>0.0</real>
+											<real>177</real>
+										</array>
+										<array>
+											<real>44.08203125</real>
+											<real>174.74612426757812</real>
+										</array>
+										<array>
+											<real>18.81634521484375</real>
+											<real>5.7226715087890625</real>
+										</array>
+									</array>
+									<key>polygons</key>
+									<array>
+										<array>
+											<array>
+												<real>18.81634521484375</real>
+												<real>5.7226715087890625</real>
+											</array>
+											<array>
+												<real>44.08203125</real>
+												<real>174.74612426757812</real>
+											</array>
+											<array>
+												<real>0.0</real>
+												<real>177</real>
+											</array>
+											<array>
+												<real>0.0</real>
+												<real>0.0</real>
+											</array>
+										</array>
+									</array>
+								</dict>
 								<key>properties</key>
 								<array>
 									<dict>
@@ -488,6 +551,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
