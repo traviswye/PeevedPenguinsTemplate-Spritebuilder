@@ -2348,7 +2348,7 @@
 				<integer>12</integer>
 			</dict>
 			<key>chainedSequenceId</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>length</key>
 			<real>4</real>
 			<key>name</key>
@@ -2356,7 +2356,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>2.7666666507720947</real>
+			<real>2.9000000953674316</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
