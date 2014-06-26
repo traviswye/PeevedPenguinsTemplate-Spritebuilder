@@ -39,6 +39,7 @@
     // nothing shall collide with our invisible nodes
     _pullbackNode.physicsBody.collisionMask = @[];
     _mouseJointNode.physicsBody.collisionMask =@[];
+    _physicsNode.collisionDelegate = self;
 }
 
 -(void) touchBegan:(UITouch *)touch withEvent:(UIEvent *)event
@@ -106,6 +107,11 @@
     [self releaseCatapult];
 }
 
+
+-(void)ccPhysicsCollisionPostSolve:(CCPhysicsCollisionPair *)pair seal:(CCNode *)nodeA wildcard:(CCNode *)nodeB
+{
+    CCLOG(@"Something collided with a seal!");
+}
 
 - (void)launchPenguin {
     // loads the Penguin.ccb we have set up in Spritebuilder
